@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+body {
+  /* background-image: url(bg3.jpeg); */
+  background-color: rgb(185, 185, 185);
+}
+
+input{
+
+  height: 30px;
+  width: 300px;
+}
